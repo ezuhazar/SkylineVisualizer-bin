@@ -41,6 +41,7 @@ Please place the plugin file into the VST3 directory specific to your operating 
 ==================================================
 LICENSE & COPYRIGHT
 ==================================================
+
 Copyright (c) 2025 Ezuhazar.
 
 This software is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). For full license details, please see the included LICENSE.txt file.
