@@ -24,11 +24,11 @@ The author asserts **zero rights** over any output or creative work produced thr
 
 You are **strictly prohibited** from:
 
-1. Redistributing the Software in any form, whether modified or unmodified.
-2. Modifying, reverse-engineering, disassembling, decompiling, or altering the Software.
-3. Extracting, reusing, or incorporating any part of the Software into other software or projects.
-4. Claiming authorship or implying ownership of the Software.
-5. Selling, sublicensing, renting, leasing, or otherwise commercializing the Software.
+1. **Redistributing** the Software in any form, whether modified or unmodified.
+2. **Modifying, reverse-engineering, disassembling, decompiling, or altering** the Software.
+3. **Extracting, reusing, or incorporating** any part of the Software into other software or projects.
+4. **Claiming authorship or implying ownership** of the Software.
+5. **Selling, sublicensing, renting, leasing, or otherwise commercializing** the Software.
 
 The Software may only be **used**, not redistributed or altered.
 
