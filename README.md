@@ -1,37 +1,60 @@
-# SkylineVisualizer - VST3 Analyzer Plugin (v1.0.0)
+# SkylineVisualizer - VST3 Analyzer Plugin
 
-## FEATURES (English)
+**Version 1.0.0**
+Copyright © 2025 Ezuhazar.
 
-Key Features:
-* DC Offset Display: Visualizes DC offset (0 Hz) to help diagnose signal issues and prevent clipping.
-* Peak Hold: Displays the maximum historical level with a distinct line for easy visual tracking.
+SkylineVisualizer is a simple yet effective visual analysis tool designed for mixing and mastering engineers.
 
-![SkylineVisualizer in action](SkylineVisualizer_DAW.png)
+---
 
-## INSTALLATION GUIDE (IMPORTANT!)
+## Features
 
-Please place the plugin file into the VST3 directory specific to your operating system.
+* **DC Offset Display:** Visualizes DC offset (0 Hz) to help diagnose signal issues and prevent artifacts.
+* **Peak Hold:** Displays the maximum historical level for visual tracking.
 
-### [English]
-1. Unzip the package.
-2. Copy the "SkylineVisualizer.vst3" file into the VST3 directory:
-    - Windows: `C:\Program Files\Common Files\VST3\`
-3. Restart your DAW (Ableton Live, Cubase, Studio One, etc.).
+(SkylineVisualizer_DAW.png)
 
-### [日本語]
-1. ファイルを解凍してください。
-2. "SkylineVisualizer.vst3" ファイルを、以下の VST3 フォルダにコピーしてください:
-    - Windows: `C:\Program Files\Common Files\VST3\`
-3. DAW (Ableton Live, Cubase, Studio Oneなど) を再起動してください。
+---
 
-### [Deutsch]
-1. Entpacken Sie die Datei.
-2. Kopieren Sie die "SkylineVisualizer.vst3" Datei in das folgende VST3-Verzeichnis:
-    - Windows: `C:\Program Files\Common Files\VST3\`
-3. Starten Sie Ihre DAW (Ableton Live, Cubase, Studio One usw.) neu.
+## 📦 Installation Guide
 
-### [Русский (Russian)]
-1. Распакуйте архив.
-2. Скопируйте файл "SkylineVisualizer.vst3" в следующую директорию VST3:
-    - Windows: `C:\Program Files\Common Files\VST3\`
-3. Перезапустите вашу DAW (Ableton Live, Cubase, Studio One и т.д.).
+Please place the plugin file (`SkylineVisualizer.vst3`) into the VST3 directory specific to your operating system.
+
+### Common VST3 Path:
+* **Windows:** `C:\Program Files\Common Files\VST3\`
+* **macOS:** `/Library/Audio/Plug-Ins/VST3/` (※Mac版がある場合は記載)
+
+---
+
+### Installation Instructions by Language
+
+#### English
+
+1.  Unzip the package.
+2.  Copy the "SkylineVisualizer.vst3" file into the VST3 directory listed above.
+3.  Restart your DAW (Ableton Live, Cubase, Studio One, etc.).
+
+#### 日本語
+
+1.  ファイルを解凍してください。
+2.  "SkylineVisualizer.vst3" ファイルを、上記の VST3 フォルダにコピーしてください。
+3.  DAW (Ableton Live, Cubase, Studio Oneなど) を再起動してください。
+
+#### Deutsch
+
+1.  Entpacken Sie die Datei.
+2.  Kopieren Sie die "SkylineVisualizer.vst3" Datei in das oben aufgeführte VST3-Verzeichnis.
+3.  Starten Sie Ihre DAW (Ableton Live, Cubase, Studio One usw.) neu.
+
+#### Русский (Russian)
+
+1.  Распакуйте архив.
+2.  Скопируйте файл "SkylineVisualizer.vst3" в директорию VST3, указанную выше.
+3.  Перезапустите вашу DAW (Ableton Live, Cubase, Studio One и т.д.).
+
+---
+
+## 📝 License
+
+This software is distributed under the **SkylineVisualizer End User License Agreement (EULA)**.
+For full terms and conditions, please refer to the included `LICENSE.txt` file.
