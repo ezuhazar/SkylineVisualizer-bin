@@ -35,11 +35,3 @@ Please place the plugin file into the VST3 directory specific to your operating 
 2. Скопируйте файл "SkylineVisualizer.vst3" в следующую директорию VST3:
     - Windows: `C:\Program Files\Common Files\VST3\`
 3. Перезапустите вашу DAW (Ableton Live, Cubase, Studio One и т.д.).
-
-## LICENSE & COPYRIGHT
-
-Copyright (c) 2025 Ezuhazar.
-
-This software is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). For full license details, please see the included LICENSE.txt file.
-
-This product is provided "AS IS" without warranty. Use at your own risk.
