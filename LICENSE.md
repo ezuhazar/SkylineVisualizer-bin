@@ -83,3 +83,10 @@ No rights are transferred except the limited right to use the Software as define
 
 By downloading, installing, or using the Software, you acknowledge that you have read, understood, and agreed to be bound by this Agreement.
 
+---
+
+## **9. Governing Law and Jurisdiction**
+
+This Agreement shall be governed by and construed in accordance with the laws of Japan, without regard to its conflict of law principles.
+The parties agree that the Tokyo District Court shall have exclusive jurisdiction over any dispute arising out of or in connection with this Agreement.
+
