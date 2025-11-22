@@ -22,7 +22,6 @@ Please place the plugin file (`SkylineVisualizer.vst3`) into the VST3 directory 
 
 ### Common VST3 Path:
 * **Windows:** `C:\Program Files\Common Files\VST3\`
-* **macOS:** `/Library/Audio/Plug-Ins/VST3/` (※Mac版がある場合は記載)
 
 ---
 
