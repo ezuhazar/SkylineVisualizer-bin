@@ -1,13 +1,13 @@
 # SkylineVisualizer - VST3 Analyzer Plugin
 
-**Version 1.0.1**
+**Version 1.0.2**
 Copyright © 2025 Ezuhazar.
 
 SkylineVisualizer is a simple yet effective visual analysis tool designed for mixing and mastering engineers.
 
 ---
 
-![SkylineVisualizer in action](SkylineVisualizer_v1_0_1_Win64.png)
+![SkylineVisualizer in action](SkylineVisualizer_v1_0_2_Win64.png)
 
 ---
 
